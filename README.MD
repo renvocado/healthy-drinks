@@ -26,14 +26,47 @@ Aplikasi rekomendasi jus & smoothie: pilih tujuan (Detox, Energy, Diet, Relax), 
 - Detail resep + kalkulator porsi
 - Admin CRUD + upload gambar + ganti password
 
-## 🖼️ Tampilan Aplikasi
+## 🖼️ Tampilan Aplikasi HealthyBite Drinks
+
+Berikut adalah tampilan dari aplikasi web **HealthyBite Drinks** (dibuat menggunakan PHP Native + CSS tanpa framework).
+
+---
+
+### 🍹 Halaman User
 
 **Halaman Utama**
 ![Halaman Utama](screenshot/Halaman%20Utama.jpg)
 
-**Login Admin**
-![Login Admin](screenshot/Halaman%20Login.jpg)
+**Halaman Semua Resep**
+![Halaman Semua Resep](screenshot/Halaman%20Semua%20Resep%20User.jpg)
 
-**Kelola Resep (Admin)**
-![Kelola Resep](screenshot/Halaman%20Kelola%20Resep%20Admin.jpg)
+**Halaman Detail Resep**
+![Halaman Detail Resep](screenshot/Halaman%20Detail%20Resep%20User.jpg)
+
+---
+
+### 🔐 Halaman Admin
+
+**Halaman Login**
+![Halaman Login](screenshot/Halaman%20Login.jpg)
+
+**Halaman Utama Admin**
+![Halaman Utama Admin](screenshot/Halaman%20Utama%20Admin.jpg)
+
+**Halaman Kelola Resep**
+![Halaman Kelola Resep](screenshot/Halaman%20Kelola%20Resep%20Admin.jpg)
+
+**Halaman Tambah Resep Baru**
+![Halaman Tambah Resep Baru](screenshot/Halaman%20Tambah%20Resep%20Baru%20Admin.jpg)
+
+**Halaman Edit Resep**
+![Halaman Edit Resep](screenshot/Halaman%20Edit%20Resep%20Admin.jpg)
+
+**Halaman Ganti Password Admin**
+![Halaman Ganti Password](screenshot/Halaman%20Ganti%20Password%20Untuk%20Admin.jpg)
+
+---
+
+> 📸 Semua screenshot diambil dari localhost (XAMPP) versi final project UTS Pemrograman Web 2  
+> 👨‍💻 Fitur utama: login admin, CRUD resep, upload gambar, rekomendasi minuman sehat per kategori (detox, energy, diet, relax), dan sortir alphabet.
 
