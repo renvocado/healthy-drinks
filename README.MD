@@ -25,3 +25,15 @@ Aplikasi rekomendasi jus & smoothie: pilih tujuan (Detox, Energy, Diet, Relax), 
 - Sortir: Terbaru, Nama A–Z, Nama Z–A (berlaku di Semua/Goal/Search)
 - Detail resep + kalkulator porsi
 - Admin CRUD + upload gambar + ganti password
+
+## 🖼️ Tampilan Aplikasi
+
+**Halaman Utama**
+![Halaman Utama](screenshot/Halaman%20Utama.jpg)
+
+**Login Admin**
+![Login Admin](screenshot/Halaman%20Login.jpg)
+
+**Kelola Resep (Admin)**
+![Kelola Resep](screenshot/Halaman%20Kelola%20Resep%20Admin.jpg)
+
