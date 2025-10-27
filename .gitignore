@@ -1,0 +1,15 @@
+# kredensial lokal & file sensitif
+inc/db.php
+tools/reset_admin.php
+
+# file dev / sementara
+info.php
+test_db.php
+
+# uploads besar (simpan folder-nya saja)
+assets/img/*
+!assets/img/.gitkeep
+
+# sistem
+.DS_Store
+Thumbs.db
