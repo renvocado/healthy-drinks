@@ -97,16 +97,39 @@ Sesuaikan:
 
 ## 📸 Screenshots (folder `screenshot/`)
 
-1. Halaman Awal — `Halaman_Awal.jpg`
-2. Halaman Beranda User — `Halaman_BerandaUser.jpg`
-3. Halaman Resep User — `Halaman_ResepUser.jpg`
-4. Cetak Resep — `Halaman_CetakResepUser.jpg`
-5. Halaman Daftar — `Halaman_Daftar.jpg`
-6. Halaman Login — `Halaman_Login.jpg`
-7. Dashboard Admin — `Halaman_BerandaAdmin.jpg`
-8. Kelola Resep — `Halaman_KelolaResepAdmin.jpg`
-9. Tambah Resep — `Halaman_TambahResepAdmin.jpg`
-10. Edit Resep — `Halaman_EditResepAdmin.jpg`
-11. Kelola User Admin — `Halaman_KelolaUserAdmin.jpg`
+## 📸 Screenshots
+
+### Halaman Awal
+![Halaman Awal](screenshot/Halaman_Awal.jpg)
+
+### Halaman Beranda User
+![Halaman Beranda User](screenshot/Halaman_BerandaUser.jpg)
+
+### Halaman Resep User
+![Halaman Resep User](screenshot/Halaman_ResepUser.jpg)
+
+### Cetak Resep
+![Cetak Resep](screenshot/Halaman_CetakResepUser.jpg)
+
+### Halaman Daftar
+![Halaman Daftar](screenshot/Halaman_Daftar.jpg)
+
+### Halaman Login
+![Halaman Login](screenshot/Halaman_Login.jpg)
+
+### Dashboard Admin
+![Dashboard Admin](screenshot/Halaman_BerandaAdmin.jpg)
+
+### Kelola Resep (Admin)
+![Kelola Resep Admin](screenshot/Halaman_KelolaResepAdmin.jpg)
+
+### Tambah Resep (Admin)
+![Tambah Resep Admin](screenshot/Halaman_TambahResepAdmin.jpg)
+
+### Edit Resep (Admin)
+![Edit Resep Admin](screenshot/Halaman_EditResepAdmin.jpg)
+
+### Kelola User Admin
+![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
 
 Semua screenshot diambil dari localhost (XAMPP).
