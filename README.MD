@@ -97,50 +97,62 @@ Sesuaikan:
 
 ## 📸 Screenshots (folder `screenshot/`)
 
-### Halaman Awal
+### 1. Halaman Awal
 ![Halaman Awal](screenshot/Halaman_Awal.jpg)
+Tampilan landing page aplikasi yang berisi pengenalan singkat HealthyBite Drinks dan akses menuju login / daftar.
 
-### Halaman Beranda User
-![Halaman Beranda User](screenshot/Halaman_BerandaUser.jpg)
-
-### Halaman Beranda Admin
-![Halaman Beranda Admin](screenshot/Halaman_BerandaAdmin.jpg)
-
-### Halaman Resep User
-![Halaman Resep User](screenshot/Halaman_ResepUser.jpg)
-
-### Halaman Cetak Resep User
-![Cetak Resep User](screenshot/Halaman_CetakResepUser.jpg)
-
-### Halaman Cetak Resep User (Versi 2)
-![Cetak Resep User 2](screenshot/Halaman_CetakResepUser2.jpg)
-
-### Halaman Daftar
-![Halaman Daftar](screenshot/Halaman_Daftar.jpg)
-
-### Halaman Daftar Minuman User
-![Halaman Daftar Minuman User](screenshot/Halaman_DaftarMinumanUser.jpg)
-
-### Halaman Login
+### 2. Halaman Login
 ![Halaman Login](screenshot/Halaman_Login.jpg)
+Form autentikasi untuk user dan admin sebelum masuk ke sistem.
+
+### 3. Halaman Daftar
+![Halaman Daftar](screenshot/Halaman_Daftar.jpg)
+Form autentikasi untuk user dan admin sebelum masuk ke sistem.
+
+### 4. Halaman Beranda User
+![Halaman Beranda User](screenshot/Halaman_BerandaUser.jpg)
+Dashboard utama user berisi menu, kategori minuman, dan navigasi fitur.
+
+### 5. Halaman Daftar Minuman User
+![Halaman Daftar Minuman User](screenshot/Halaman_DaftarMinumanUser.jpg)
+Menampilkan daftar kategori minuman seperti Detox, Energy, Diet, dan Relax.
+
+### 6. Halaman Resep User
+![Halaman Resep User](screenshot/Halaman_ResepUser.jpg)
+Menampilkan daftar kategori minuman seperti Detox, Energy, Diet, dan Relax.
+
+### 7. Halaman Cetak Resep User
+![Cetak Resep User](screenshot/Halaman_CetakResepUser.jpg)
+Tampilan versi cetak resep agar lebih rapi saat disimpan atau dicetak.
+
+### 8. Halaman Cetak Resep User (Versi 2)
+![Cetak Resep User 2](screenshot/Halaman_CetakResepUser2.jpg)
+Alternatif layout cetak resep dengan komposisi elemen yang berbeda.
 
 ---
 
 ## 👨‍💻 Admin Panel
 
-### Kelola Resep Admin
+### 9. Halaman Beranda Admin
+![Halaman Beranda Admin](screenshot/Halaman_BerandaAdmin.jpg)
+Dashboard admin berisi ringkasan jumlah resep, user, dan menu manajemen.
+
+### l0. Kelola Resep Admin
 ![Kelola Resep Admin](screenshot/Halaman_KelolaResepAdmin.jpg)
+Dashboard admin berisi ringkasan jumlah resep, user, dan menu manajemen.
 
-### Tambah Resep Admin
+### 11. Tambah Resep Admin
 ![Tambah Resep Admin](screenshot/Halaman_TambahResepAdmin.jpg)
+Form input resep baru beserta unggah gambar minuman.
 
-### Edit Resep Admin
+### 12. Edit Resep Admin
 ![Edit Resep Admin](screenshot/Halaman_EditResepAdmin.jpg)
+Halaman untuk memperbarui data resep yang sudah tersimpan.
 
-### Edit Password Admin
-![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
-
-### Kelola User Admin
+### 13. Kelola User Admin
 ![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
+Halaman untuk memperbarui data resep yang sudah tersimpan.
 
-Semua screenshot diambil dari localhost (XAMPP).
+### 14. Edit Password Admin
+![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
+Fitur keamanan untuk mengganti password akun admin.
