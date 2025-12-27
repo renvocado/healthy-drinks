@@ -130,26 +130,26 @@ Alternatif layout cetak resep dengan komposisi elemen yang berbeda.
 
 ## 👨‍💻 Admin Panel
 
-### 9. Halaman Beranda Admin
+### 8. Halaman Beranda Admin
 ![Halaman Beranda Admin](screenshot/Halaman_BerandaAdmin.jpg)
 Dashboard admin berisi ringkasan jumlah resep, resep baru, kelola resep, dan kelola user.
 
-### l0. Kelola Resep Admin
+### 9. Kelola Resep Admin
 ![Kelola Resep Admin](screenshot/Halaman_KelolaResepAdmin.jpg)
 Halaman untuk menambah, mengedit, dan menghapus resep, dan juga ada fitur sort dari a-z/z-a.
 
-### 11. Tambah Resep Admin
+### 10. Tambah Resep Admin
 ![Tambah Resep Admin](screenshot/Halaman_TambahResepAdmin.jpg)
 Form input resep baru beserta unggah gambar minuman.
 
-### 12. Edit Resep Admin
+### 11. Edit Resep Admin
 ![Edit Resep Admin](screenshot/Halaman_EditResepAdmin.jpg)
 Halaman untuk memperbarui data resep yang sudah tersimpan.
 
-### 13. Kelola User Admin
+### 12. Kelola User Admin
 ![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
 Fitur keamanan untuk mengganti password akun user.
 
-### 14. Edit Password Admin
+### 13. Edit Password Admin
 ![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
 Fitur keamanan untuk mengganti password akun admin.
