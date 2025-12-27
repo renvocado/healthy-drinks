@@ -97,37 +97,48 @@ Sesuaikan:
 
 ## 📸 Screenshots (folder `screenshot/`)
 
-## 📸 Screenshots
-
 ### Halaman Awal
 ![Halaman Awal](screenshot/Halaman_Awal.jpg)
 
 ### Halaman Beranda User
 ![Halaman Beranda User](screenshot/Halaman_BerandaUser.jpg)
 
+### Halaman Beranda Admin
+![Halaman Beranda Admin](screenshot/Halaman_BerandaAdmin.jpg)
+
 ### Halaman Resep User
 ![Halaman Resep User](screenshot/Halaman_ResepUser.jpg)
 
-### Cetak Resep
-![Cetak Resep](screenshot/Halaman_CetakResepUser.jpg)
+### Halaman Cetak Resep User
+![Cetak Resep User](screenshot/Halaman_CetakResepUser.jpg)
+
+### Halaman Cetak Resep User (Versi 2)
+![Cetak Resep User 2](screenshot/Halaman_CetakResepUser2.jpg)
 
 ### Halaman Daftar
 ![Halaman Daftar](screenshot/Halaman_Daftar.jpg)
 
+### Halaman Daftar Minuman User
+![Halaman Daftar Minuman User](screenshot/Halaman_DaftarMinumanUser.jpg)
+
 ### Halaman Login
 ![Halaman Login](screenshot/Halaman_Login.jpg)
 
-### Dashboard Admin
-![Dashboard Admin](screenshot/Halaman_BerandaAdmin.jpg)
+---
 
-### Kelola Resep (Admin)
+## 👨‍💻 Admin Panel
+
+### Kelola Resep Admin
 ![Kelola Resep Admin](screenshot/Halaman_KelolaResepAdmin.jpg)
 
-### Tambah Resep (Admin)
+### Tambah Resep Admin
 ![Tambah Resep Admin](screenshot/Halaman_TambahResepAdmin.jpg)
 
-### Edit Resep (Admin)
+### Edit Resep Admin
 ![Edit Resep Admin](screenshot/Halaman_EditResepAdmin.jpg)
+
+### Edit Password Admin
+![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
 
 ### Kelola User Admin
 ![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
