@@ -148,8 +148,8 @@ Halaman untuk memperbarui data resep yang sudah tersimpan.
 
 ### 12. Kelola User Admin
 ![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
-Fitur keamanan untuk mengganti password akun user.
+Fitur kelola user untuk mengganti password admin maupun user dan menghapus user.
 
 ### 13. Edit Password Admin
 ![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
-Fitur keamanan untuk mengganti password akun admin.
+Fitur keamanan untuk mengganti password akun admin dan user sama.
