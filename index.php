@@ -54,7 +54,7 @@ require __DIR__.'/inc/header.php';
     <section class="info-section">
       <div class="container">
         <h3>Tentang Kesehatan & Pola Hidup Sehat</h3>
-        <p>HealthyBite menyediakan informasi dan resep minuman sehat yang membantu mendukung pola hidup seimbang. Minuman berbahan buah, sayur, dan biji-bijian dapat menjadi sumber vitamin, serat, dan antioksidan. Penting untuk mengonsumsi variasi bahan alami, menjaga hidrasi, serta menggabungkan minuman sehat dengan pola makan dan aktivitas fisik yang teratur.</p>
+        <p>Healthy Drinks menyediakan informasi dan resep minuman sehat yang membantu mendukung pola hidup seimbang. Minuman berbahan buah, sayur, dan biji-bijian dapat menjadi sumber vitamin, serat, dan antioksidan. Penting untuk mengonsumsi variasi bahan alami, menjaga hidrasi, serta menggabungkan minuman sehat dengan pola makan dan aktivitas fisik yang teratur.</p>
         <p>Daftar sebagai member untuk menyimpan resep favorit, melihat panduan porsi, dan mendapatkan rekomendasi yang disesuaikan dengan tujuan kesehatan Anda.</p>
       </div>
     </section>

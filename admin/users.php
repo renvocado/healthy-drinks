@@ -15,7 +15,7 @@ $users  = $pdo->query("SELECT id, username, created_at FROM users ORDER BY creat
 <html lang="id">
 <head>
     <meta charset="utf-8">
-    <title>Kelola User - Admin HealthyBite</title>
+    <title>Kelola User - Admin Healthy Drinks</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../assets/style.css">
 </head>

@@ -157,7 +157,7 @@ $goalIcon = $goalIcons[$goalParam] ?? '🍹';
     </ol>
 
     <div class="pn-footer">
-      Dicetak dari HealthyBite — <?= date('d M Y') ?>
+      Dicetak dari Healthy Drinks — <?= date('d M Y') ?>
     </div>
 
   </div>

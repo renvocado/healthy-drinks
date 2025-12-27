@@ -9,7 +9,7 @@ if (session_status() === PHP_SESSION_NONE) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HealthyBite Drinks - Resep Jus & Smoothie Sehat</title>
+  <title>Healthy Drinks - Resep Jus & Smoothie Sehat</title>
   <meta name="description" content="Temukan resep jus dan smoothie sehat untuk berbagai kebutuhan kesehatan seperti detox, energi, diet, dan relaksasi.">
   
   <link rel="stylesheet" href="assets/style.css">
@@ -20,7 +20,7 @@ if (session_status() === PHP_SESSION_NONE) {
     <div class="container">
       <div class="header-content">
         <div class="logo">
-          <h1>HealthyBite Drinks</h1>
+          <h1>Healthy Drinks</h1>
           <p class="tagline">Pilih tujuan atau cari resep jus/smoothie.</p>
         </div>
         

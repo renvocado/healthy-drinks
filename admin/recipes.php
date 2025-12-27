@@ -19,7 +19,7 @@ $rows = $pdo->query("SELECT * FROM recipes ORDER BY $order")->fetchAll(PDO::FETC
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kelola Resep - Admin HealthyBite</title>
+    <title>Kelola Resep - Admin Healthy Drinks</title>
     <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
