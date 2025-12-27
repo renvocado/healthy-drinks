@@ -99,7 +99,7 @@ Sesuaikan:
 
 ### 1. Halaman Awal
 ![Halaman Awal](screenshot/Halaman_Awal.jpg)
-Tampilan landing page aplikasi yang berisi pengenalan singkat HealthyBite Drinks dan akses menuju login / daftar.
+Tampilan landing page aplikasi yang berisi pengenalan singkat HealthyBite Drinks dan akses menuju login / daftar, dan tidak bisa melihat resep jika user belum login.
 
 ### 2. Halaman Login
 ![Halaman Login](screenshot/Halaman_Login.jpg)
@@ -119,13 +119,10 @@ Menampilkan daftar kategori minuman seperti Detox, Energy, Diet, dan Relax.
 
 ### 6. Halaman Resep User
 ![Halaman Resep User](screenshot/Halaman_ResepUser.jpg)
-Menampilkan daftar kategori minuman seperti Detox, Energy, Diet, dan Relax.
+![Cetak Resep User](screenshot/Halaman_CetakResepUser.jpg)
+Menampilkan daftar resep minuman, cara pembuatan, serta cetak resep.
 
 ### 7. Halaman Cetak Resep User
-![Cetak Resep User](screenshot/Halaman_CetakResepUser.jpg)
-Tampilan versi cetak resep agar lebih rapi saat disimpan atau dicetak.
-
-### 8. Halaman Cetak Resep User (Versi 2)
 ![Cetak Resep User 2](screenshot/Halaman_CetakResepUser2.jpg)
 Alternatif layout cetak resep dengan komposisi elemen yang berbeda.
 
@@ -135,11 +132,11 @@ Alternatif layout cetak resep dengan komposisi elemen yang berbeda.
 
 ### 9. Halaman Beranda Admin
 ![Halaman Beranda Admin](screenshot/Halaman_BerandaAdmin.jpg)
-Dashboard admin berisi ringkasan jumlah resep, user, dan menu manajemen.
+Dashboard admin berisi ringkasan jumlah resep, resep baru, kelola resep, dan kelola user.
 
 ### l0. Kelola Resep Admin
 ![Kelola Resep Admin](screenshot/Halaman_KelolaResepAdmin.jpg)
-Dashboard admin berisi ringkasan jumlah resep, user, dan menu manajemen.
+Halaman untuk menambah, mengedit, dan menghapus resep, dan juga ada fitur sort dari a-z/z-a.
 
 ### 11. Tambah Resep Admin
 ![Tambah Resep Admin](screenshot/Halaman_TambahResepAdmin.jpg)
@@ -151,7 +148,7 @@ Halaman untuk memperbarui data resep yang sudah tersimpan.
 
 ### 13. Kelola User Admin
 ![Kelola User Admin](screenshot/Halaman_KelolaUserAdmin.jpg)
-Halaman untuk memperbarui data resep yang sudah tersimpan.
+Fitur keamanan untuk mengganti password akun user.
 
 ### 14. Edit Password Admin
 ![Edit Password Admin](screenshot/Halaman_EditPasswordAdmin.jpg)
