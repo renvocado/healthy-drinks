@@ -1,6 +1,6 @@
 # Rendi Setiawan Jodi — 221011400830 — 07TPLP020
 
-# HealthyBite Drinks (PHP Native)
+# Healthy Drinks (PHP Native)
 
 Aplikasi rekomendasi jus & smoothie berbasis web. Pengguna dapat memilih tujuan minuman
 (Detox, Energy, Diet, Relax), melihat resep, serta menghitung kalori per porsi.
@@ -99,7 +99,7 @@ Sesuaikan:
 
 ### 1. Halaman Awal
 ![Halaman Awal](screenshot/Halaman_Awal.jpg)
-Tampilan landing page aplikasi yang berisi pengenalan singkat HealthyBite Drinks dan akses menuju login / daftar, dan tidak bisa melihat resep jika user belum login.
+Tampilan landing page aplikasi yang berisi pengenalan singkat Healthy Drinks dan akses menuju login / daftar, dan tidak bisa melihat resep jika user belum login.
 
 ### 2. Halaman Login
 ![Halaman Login](screenshot/Halaman_Login.jpg)
